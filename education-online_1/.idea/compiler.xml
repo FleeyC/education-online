@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com_lzf_spark_hudi" />
+        <module name="com_lzf_sparkstreaming" />
+        <module name="com_lzf_spark_kudu" />
+        <module name="com_lzf_warehouse" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com_lzf_spark_hudi" target="1.5" />
+      <module name="com_lzf_spark_kudu" target="1.5" />
+      <module name="com_lzf_sparkstreaming" target="1.5" />
+      <module name="com_lzf_warehouse" target="1.5" />
+      <module name="education-online" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

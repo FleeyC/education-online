@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com_lzf_spark_hudi/com_lzf_spark_hudi.iml" filepath="$PROJECT_DIR$/com_lzf_spark_hudi/com_lzf_spark_hudi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com_lzf_spark_kudu/com_lzf_spark_kudu.iml" filepath="$PROJECT_DIR$/com_lzf_spark_kudu/com_lzf_spark_kudu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com_lzf_sparkstreaming/com_lzf_sparkstreaming.iml" filepath="$PROJECT_DIR$/com_lzf_sparkstreaming/com_lzf_sparkstreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com_lzf_warehouse/com_lzf_warehouse.iml" filepath="$PROJECT_DIR$/com_lzf_warehouse/com_lzf_warehouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/education-online.iml" filepath="$PROJECT_DIR$/.idea/education-online.iml" />
+    </modules>
+  </component>
+</project>
